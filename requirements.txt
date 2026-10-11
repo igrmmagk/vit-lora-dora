@@ -1,0 +1,13 @@
+# Install CUDA-enabled torch + torchvision separately (see README).
+accelerate>=1.0,<2
+datasets>=3.6,<6
+transformers>=4.56,<6
+peft>=0.20,<1
+scikit-learn>=1.5,<2
+numpy>=1.26,<3
+Pillow>=10,<13
+safetensors>=0.5,<1
+scipy>=1.13,<2
+pandas>=2,<4
+matplotlib>=3.8,<4
+tqdm>=4.66,<5
